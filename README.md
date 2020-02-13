@@ -11,3 +11,6 @@ The service flows as follow:
 The printer has to be available in the network and shared. 
 
 Note: The project is shipped with a PowerApps - canvas app to test it. 
+
+
+See also: https://ccampora.blogspot.com/2020/01/going-back-to-posting-after-long-period.html?m=0
